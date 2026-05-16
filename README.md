@@ -4,7 +4,7 @@
 The objective of this project was to analyze Superstore sales data and develop an interactive Power BI dashboard to monitor sales performance, profit trends, regional analysis, and product insights. The dashboard helps businesses make data-driven decisions by identifying high-performing categories, profitable regions, and customer segments.
 
 ## Dataset Used
-- <a href="https://github.com/OmkarTatkare/superstore-sales-analysis/blob/main/SuperStoreSalesData.xlsx">Dataset</a>
+- <a href="https://github.com/OmkarTatkare/Superstore-Sales-Analysis/blob/main/SuperStoreSalesData%20(1).csv.xlsx">Dataset</a>
 
 ## Tools & Technologies Used
 - Power BI
@@ -70,3 +70,4 @@ The objective of this project was to analyze Superstore sales data and develop a
 
 ## Final Conclusion
 The Power BI dashboard provides a comprehensive business intelligence solution for monitoring sales and profitability performance. By leveraging interactive visualizations and real-time filtering, businesses can identify profitable regions, optimize product strategies, and improve decision-making processes. The project demonstrates how data visualization and analytics can transform raw business data into actionable insights.
+
