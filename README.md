@@ -45,8 +45,7 @@ The objective of this project was to analyze Superstore sales data and develop a
   - Sales Overview
   - Regional Analysis
   - Product Analysis
-- Implemented interactive page navigation buttons for smooth transitions between dashboard pages.
-- Added multi-select filtering functionality where users can press **CTRL + Select** to choose multiple categories, segments, or headings simultaneously for deeper analysis and dynamic interaction.
+- Implemented interactive page navigation buttons to move to the next page or return to the previous page for seamless dashboard interaction and improved user experience.
 
 ## Dashboard
 
