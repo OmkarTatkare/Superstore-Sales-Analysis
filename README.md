@@ -45,7 +45,12 @@ The objective of this project was to analyze Superstore sales data and develop a
   - Sales Overview
   - Regional Analysis
   - Product Analysis
-- Implemented interactive page navigation buttons to move to the next page or return to the previous page for seamless dashboard interaction and improved user experience.
+- Added interactive page navigation buttons to move between pages seamlessly.
+- Implemented **CTRL + Click** functionality where users can press **CTRL** and directly select any of the following pages:
+  - Sales Overview
+  - Regional Analysis
+  - Product Analysis
+- Improved dashboard usability with dynamic interaction and smooth page transitions for better user experience.
 
 ## Dashboard
 
@@ -70,4 +75,3 @@ The objective of this project was to analyze Superstore sales data and develop a
 
 ## Final Conclusion
 The Power BI dashboard provides a comprehensive business intelligence solution for monitoring sales and profitability performance. By leveraging interactive visualizations and real-time filtering, businesses can identify profitable regions, optimize product strategies, and improve decision-making processes. The project demonstrates how data visualization and analytics can transform raw business data into actionable insights.
-
